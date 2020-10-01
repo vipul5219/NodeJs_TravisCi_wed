@@ -1,5 +1,5 @@
 # Creating node Project
-
+[![Build Status](https://travis-ci.org/vipul5219/NodeJs_TravisCi_wed.svg?branch=master)](https://travis-ci.org/vipul5219/NodeJs_TravisCi_wed)
 - mkdir week03_node_example
 - cd week03_node_example
 - node --version
